@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+
+}
+
+.section-productos {
+    margin: 0 auto;    
+    background-color: black;
+}
+
+.titulo-productos {
+    text-align: center;
+    font-size: 45px;
+    padding: 20px 0 20px;
+    color: white;
+    border-bottom: 3px solid rgb(207, 119, 211);
+    width: 80%;
+    margin: 0 auto;
+    
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    padding-bottom: 0;
+    margin: 0 auto;
+}
